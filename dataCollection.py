@@ -8,13 +8,13 @@ import time
 cap = cv2.VideoCapture(0)
 
 #Detector el numero de manos
-detector = HandDetector(maxHands=1)
+detector = HandDetector(maxHands=2)
 
 offset = 20
 imgSize = 300
 
 #Datos para la captura de las imagenes
-folder = "Data/C"
+folder = "Data/T"
 counter = 0
 
 #Captura de imagen, manos a través de la Webcam

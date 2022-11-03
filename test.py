@@ -19,7 +19,7 @@ imgSize = 300
 folder = "Data/C"
 counter = 0
 
-labels = ["A", "B", "C"]
+labels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "M", "N", "O", "P", "R", "S", "T", "U", "V", "W", "Y"]
 
 #Captura de imagen, manos a través de la Webcam
 while True:
